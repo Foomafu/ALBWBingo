@@ -1,4 +1,4 @@
-::Version 0.3
+::Version 0.4
 
 @echo off
 setlocal enabledelayedexpansion
@@ -81,8 +81,8 @@ set objectives[34]=Get humbled by Gramps
 set objectives[35]=Get revived by a fairy in a bottle
 set objectives[36]=Visit all 5 Great Fairies (ER, Swamp, DM, PD, TT)
 set objectives[37]=Purchase Scoot Fruit, Foul Fruit, Shield, Bee, Fairy, Golden Bee
-set objectives[38]=Active %random_eighttofifteen% Weather Vanes
-set objectives[39]=Bottle an Apple
+set objectives[38]=Activate %random_eighttofifteen% Weather Vanes
+set objectives[39]=Have 2 Bottled Apples
 set objectives[40]=Be in jail in Kakariko, Thieves' Hideout, and Dark Maze
 set objectives[41]=Get your shield eaten by a Like Like
 
